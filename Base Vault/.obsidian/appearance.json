@@ -1,0 +1,10 @@
+{
+  "accentColor": "#566605",
+  "theme": "obsidian",
+  "cssTheme": "After8-Theme-for-Obsidian",
+  "baseFontSize": 17,
+  "baseFontSizeAction": true,
+  "textFontFamily": "Malgun Gothic",
+  "interfaceFontFamily": "Segoe UI",
+  "monospaceFontFamily": "Source Code Pro"
+}
